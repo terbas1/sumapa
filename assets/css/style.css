@@ -1232,6 +1232,9 @@ img.galeria2 {
     position: relative;
     bottom: -3px;
 }
+.social{
+    text-align: center ;
+}
 -social ul{
     padding-top: 5px
 }
@@ -3335,11 +3338,16 @@ ul.footer-blog li {
 .social ul {
     padding: 0px;
     list-style: outside none none;
+    display: inline-table;
+    
+    
+
 }
 .social li {
-    display: inline-block;
+    display: inline;
     padding-right: 0.3em;
     padding-bottom: 0.3em;
+    align-content: center;
 }
 .social  ul li a:hover {
     color: #1e4477;
@@ -3351,7 +3359,7 @@ border-color: #1e4477;
 }
 
 .social ul li a{
-display: block;
+display: flex;
 width: 40px;
 height: 40px;
 line-height: 40px;
@@ -3359,11 +3367,13 @@ border-radius: 50%;
 border: 1px solid  #1e4477;
 transition: all 0.8s ease 0s;
 color: #1e4477;
+
 }
 .social ul li a i{
 color:  #1e4477;
 font-size: 20px;
 padding: 10px;
+
 }
 .bottom-menu ul{
     list-style: outside none none;

@@ -444,7 +444,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 .search-btn ,.toggle-btn{
     background-color: #05AE0E;
-    color: #333;
+    color: rgb(126, 207, 93);
     font-size: 16px;
     border: 1px solid #EAE9E9;
     width: 40px;
@@ -2606,6 +2606,7 @@ Welcom
     fill: #FFF;
     border-radius: 15px;
     color:black;
+    cursor: pointer;
 }
 .welcome-estate h3 {
     font: 600 14px "Open Sans",sans-serif;
@@ -2613,11 +2614,18 @@ Welcom
     margin: 20px 0px 0px;
   
 }
+.cambioColor{
+    color:rgb(126, 207, 93);
+}
+.cambioColor:hover {
+    color:rgb(142, 155, 137);
+}
 .welcome-estate h3:hover {
     font: 600 14px "Open Sans",sans-serif;
     text-transform: none;
     margin: 20px 0px 0px;
     color:rgb(255, 255, 255);
+    cursor: pointer;
 }
 
 .welcome_text ul {
@@ -2861,7 +2869,7 @@ count-area
     clear: both;
     font-weight: 400;
     line-height: 1.42857;
-    color: #333;
+    color: rgb(126, 207, 93);
     white-space: nowrap;
 }
 .search-form .dropdown-menu {

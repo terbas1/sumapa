@@ -4531,7 +4531,7 @@ tbody.collapse.in {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: #333;
+    color:rgb(126, 207, 93);
     white-space: nowrap
 }
 
@@ -5672,7 +5672,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: rgb(255, 255, 255)
+    color: rgb(126, 207, 93)
 }
 
 .navbar-default .navbar-nav>li>a:focus,

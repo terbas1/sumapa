@@ -39,6 +39,7 @@
         padding: 10px 0px;
         text-align: center;
         fill: #FFF;
+        cursor: pointer;
     }
     .Welcome-area .container .Welcome-entry {
         padding: 10px 5px 65px;
@@ -332,6 +333,7 @@
         padding: 10px 0px;
         text-align: center;
         fill: #FFF;
+        cursor: pointer;
     }
     .Welcome-area .container .Welcome-entry {
         padding: 10px 5px 65px;

@@ -2073,7 +2073,7 @@ proerty-th-list
   .location-image img {
     filter: blur(0px);
     transition: filter 0.3s ease-in;
-    transform: scale(1.1);
+    transform: scale(1);
     border-radius:20px;
   }
   
@@ -2104,7 +2104,7 @@ proerty-th-list
   }
   
   .location-listing:hover .location-image img {
-    filter: blur(2px);
+    filter: blur(0px);
   }
   
   
@@ -2114,7 +2114,7 @@ proerty-th-list
       opacity: 1;
     }
     .location-image img {
-      filter: blur(2px);
+      filter: blur(0px);
     }
   }
 

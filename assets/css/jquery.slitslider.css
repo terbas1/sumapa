@@ -46,7 +46,7 @@ slider 2
     display: inline-block;
     color:#FFF;
 }
-.slide-2 .sl-slider blockquote cite a:hover {
+blockquote cite a:hover {
     color:orange;
 }
 .slide-2 .sl-slider blockquote span{

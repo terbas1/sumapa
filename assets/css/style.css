@@ -69,7 +69,6 @@ h1 .subtitle{
     margin: 15px 0 30px;
 }
 p { 
-    padding: 0px 0px 1em;
     margin:0;
 }
 a {
@@ -3195,8 +3194,8 @@ background: rgba(159, 205, 248, 0.89);
 padding-top: 7px;
 }
 .single-footer{
-    margin-top: 55px;
-    margin-bottom: 45px;
+    margin-top: 16px;
+    margin-bottom: 10px;
 }
 .footer img{
     margin-bottom: 20px;
@@ -3204,7 +3203,6 @@ padding-top: 7px;
 .footer p{  
     line-height: 25px;
     font-size: 13px;
-    padding-bottom: 20px;
 }
 .footer h4{
     color: #000000;
@@ -3428,4 +3426,9 @@ padding: 10px;
 }
 #map {
     height: 300px;
+}
+.sobre:hover {
+    
+    color:orange;
+
 }

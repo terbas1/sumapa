@@ -1255,20 +1255,18 @@ page-header
     background: #ffffff url("../../assets/img/biodigestor.png") 
         no-repeat scroll center top / cover;
     color:#FFF;
-    width:1900px;  
-
-    min-height: 560px;
-    height:90%;
+    width: 100%;  
+    height: 90vh;
+    
 }
 
 .page-head1{
     background: #ffffff url("../../assets/img/cb15bf_Portada.jpg") 
         no-repeat scroll center top / cover;
     color:#FFF;
+    width: 100%;  
+    height: 90vh;
  
-
-  
-    min-height: 580px;
 }
 
 .page-head-content {
@@ -3006,7 +3004,7 @@ padding-bottom: 15px;
 .wp {
     position: fixed;
     bottom: 10px;
-    right: 20px;
+    right: 10px;
     z-index: 1000;
     }
 .wp a img {

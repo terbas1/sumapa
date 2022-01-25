@@ -1,0 +1,13 @@
+.padre-table{
+  display: table;
+  background: #A8C7D6;
+  height: 800px;
+  width: 100%;
+  background: red;
+}
+
+.padre-table > div{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }

@@ -1438,6 +1438,15 @@
   animation-name: fadeInRightBig;
 }
 
+@media (max-width: 767.5px){
+
+  .fadeInRight {
+    -webkit-animation-name: none;
+    animation-name: none;
+  }
+
+}
+
 @-webkit-keyframes fadeInUp {
   from {
     opacity: 0;

@@ -32,7 +32,55 @@
 
 }
 
+.arreglo{
+
+    margin-top: 6.35rem; 
+
+}
+
+@media (min-width: 553px) and (max-width: 767.5px) {
+
+    .arreglo{
+
+        margin-top: 8.67rem;
+
+    }
+    
+}
+
+@media (min-width: 488px) and (max-width: 552px) {
+
+    .arreglo{
+
+        margin-top: 11.4rem;
+
+    }
+    
+}
+
+@media (min-width: 382px) and (max-width: 487px) {
+
+    .arreglo{
+
+        margin-top: 12.58rem;
+
+    }
+    
+}
+
+@media (max-width: 381px) {
+
+    .arreglo{
+
+        margin-top: 13.72rem;
+
+    }
+    
+}
+
 @media (max-width: 767.5px){
+
+    
 
     .nav-toggle{
 

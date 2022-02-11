@@ -420,7 +420,9 @@
     }
     .navbar {
         min-height: 75px;
+        
     }
+
     .navbar-collapse {
         margin-top: 15px;
     }
@@ -429,6 +431,7 @@
     }
     .navbar-default .navbar-nav > li > a {
         font-size: 13px;
+        
     }
     .nav-button {
         font-size: 13px;
@@ -438,6 +441,7 @@
         padding-left: 15px;
         padding-right: 6px;
     }
+
     .main-nav {
         padding-top: 4px;
     }

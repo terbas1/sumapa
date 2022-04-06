@@ -1,3 +1,9 @@
+element.style{
+
+    overflow-x: hidden; 
+
+}
+
 @media (max-width: 480px){
 
     .welcome_text .page-title h2 {

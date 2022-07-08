@@ -1257,8 +1257,9 @@ page-header
 }
 
 .page-head1{
-    background: #ffffff url("../../assets/img/cb15bf_Portada.jpg") 
+    background: #ffffff url("../../assets/img/slide-2.jpg") 
         no-repeat scroll center top / cover;
+    
     color:#FFF;
     width: 100%;  
     height: 90vh;
